@@ -1,0 +1,82 @@
+/* body{
+    background-color: red;
+} */
+
+
+.container{
+
+
+.text{
+    text-align: center;
+}
+
+.row{
+    display:flex;
+    
+
+    .col-md-6
+    {
+        margin-left:200px;
+        display:inline-block;
+        width:500px;
+        /* background-color: gray; */
+    }
+    .form-group{
+        margin-top:20px;
+        /* padding-top:10px; */
+
+        .form-control{
+            width:500px;
+        }
+
+        .container{
+            text-align:center;
+
+            & hover{
+                background-color: green;
+
+            }
+        }
+    }
+
+    
+}
+
+
+
+.container1{
+    text-align: center;
+    margin-top: 20px;
+    
+
+    button{
+        background-color: blue;
+        
+
+    }
+    
+
+    .hover{
+        background-color: green;
+    }
+}
+
+}
+
+/* #cv-template{
+    display:none;
+} */
+
+
+
+.myimg{
+    border:1px solid none;
+    border-radius:50%;
+    width:250px;
+    height:250px
+
+}
+.background{
+    background-color: aqua;
+}
+
